@@ -3,6 +3,10 @@
 These templates use InfluxDB configuration.
 It's a better aproach for visualizing FNM data instead of Graphite.
 
+Based on Grafana Community dashboards:
+
+https://grafana.com/grafana/dashboards/?search=fastnetmon&dataSource=influxdb
+
 InfluxDB config:
 
 https://fastnetmon.com/docs/influxdb_integration/
